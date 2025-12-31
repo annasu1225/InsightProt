@@ -1,0 +1,9 @@
+torch
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+ipykernel
+huggingface_hub
+biopython 
